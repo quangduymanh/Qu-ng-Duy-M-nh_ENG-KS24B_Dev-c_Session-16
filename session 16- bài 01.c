@@ -6,7 +6,5 @@ int main(){
 	printf("dia chi cua a sau khi duoc khai bao bang bien: %p\n",(void*)&a);
 	printf("gia tri cua a sau khi duoc khai bao bang con tro la %d\n",*ptr);
 	printf("dia chi cua a sau khi duoc khai bao bang con tro la: %p\n",(void*)ptr);
-	
-	
     return 0;
 }
